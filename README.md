@@ -1,3 +1,3 @@
 # sps
 
-Some demo programs
+Some demo programs. Rubik's cube
